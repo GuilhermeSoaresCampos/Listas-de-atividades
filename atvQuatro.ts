@@ -1,7 +1,7 @@
 /* (5 pontos)
 
 4-Escreva um programa que receba três números inteiros e mostre eles em ordem crescente.
-Nome Aluno:
+Nome Aluno:Guilherme Henrique Soares Campos
 */
 
 let teclado = require (`prompt-sync`)();
