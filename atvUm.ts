@@ -13,7 +13,7 @@ let altura: number = 0;
 let volume: number = 0;
 
 raio = parseInt(teclado(`Digite o valor do raio:`));
-altura = parseInt(teclado(`Digite o valor da altura`));
+altura = parseInt(teclado(`Digite o valor da altura:`));
 
 volume = pi * (raio * raio) * altura; 
 
